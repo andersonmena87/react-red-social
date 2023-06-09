@@ -5,7 +5,7 @@ export const Header = () => {
         <header className="layout__navbar">
 
             <div className="navbar__header">
-                <a href="#" className="navbar__title">MIREDSOCIAL</a>
+                <a href="#" className="navbar__title">REACT-RED-SOCIAL</a>
             </div>
 
             <Nav />
