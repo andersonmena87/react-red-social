@@ -85,6 +85,7 @@ body {
 .navbar__title{
     font-size: 1.8rem;
     padding: 1.8rem;
+    min-width: 300px;
 }
 
 .navbar__container-lists{
