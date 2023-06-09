@@ -82,10 +82,13 @@ body {
     color: var(--color-text-navbar);
 }
 
+.navbar__header {
+    min-width: 214px;
+}
+
 .navbar__title{
     font-size: 1.8rem;
     padding: 1.8rem;
-    min-width: 300px;
 }
 
 .navbar__container-lists{
